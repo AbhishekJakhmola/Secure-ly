@@ -1,0 +1,27 @@
+.danger-label{
+	margin: 10rem;
+}
+
+.modal-content{
+	height:40vh;
+	width:100%;
+}
+	
+body  {
+    background: url('image.jpg');
+}
+#location{
+border:2px solid green;
+font-size:20px;
+padding:50px;
+}
+
+.navbar-brand{
+	font-size:20px;
+}
+.container{
+	color:red;
+}
+#result{
+	color:green;
+}
